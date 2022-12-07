@@ -13,9 +13,9 @@
 #### Platforms & Languages
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-purple"/>
+    <img src="https://img.shields.io/badge/-Python-purple"/><br><br>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" width="50" height="50"/><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
         
 </p>
