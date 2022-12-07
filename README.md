@@ -16,6 +16,7 @@
 사진찍기와 여러 스포츠활동을 즐겨합니다.
 
 ### 🌱 I’m currently learning ...
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 
