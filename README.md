@@ -13,14 +13,10 @@
 #### Platforms & Languages
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-purple"/><br><br>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" width="50" height="50"/><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-        
-    <img src="https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=white"/>
-
-        
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  <br><br>
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 </p>
 
 
