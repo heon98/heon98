@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋
 - 💬 Ask me about ...
 <a href="https://mail.naver.com/">
