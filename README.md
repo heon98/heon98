@@ -17,8 +17,8 @@
 
 ### 🌱 I’m currently learning ...
 <p>
-<img rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css />
-<img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
 
 </p>
 
