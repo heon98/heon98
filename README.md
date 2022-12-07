@@ -1,14 +1,13 @@
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/rh_plus_sc/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/rh_plus_sc/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://instagram.com/alpox.dev">
+<a>
     <img 
         src="https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen
 
 ### Hi there 👋
 - 저는 계속해서 배워나가고 있는 백엔드 엔지니어입니다.
