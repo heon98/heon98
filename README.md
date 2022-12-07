@@ -18,6 +18,9 @@
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" width="50" height="50"/><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
         
+    <img src="https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=white"/>
+
+        
 </p>
 
 
