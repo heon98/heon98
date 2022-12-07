@@ -21,9 +21,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
-<p>
-<img src="https://raw.githubusercontent.com/heon98/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</p>
+
 <!--
 **heon98/heon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
