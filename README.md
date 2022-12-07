@@ -1,7 +1,9 @@
-<a>
+<a href="https://www.instagram.com/rh_plus_sc/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/rh_plus_sc/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.naver.com/duafojgs/">
     <img 
         src="https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
