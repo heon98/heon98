@@ -8,12 +8,14 @@
         
 🛴저는 아직 배울게 많은 백엔드 엔지니어입니다.🏁<br>
 🔎현재는 Java를 공부하고 있습니다.<br>
-📸사진찍기와 여러 스포츠활동을 즐겨합니다.
+📸사진찍기와 여러 스포츠활동을 즐겨합니다.<br><br>
 
-<br>
+
+
 ### 🌱 I’m currently learning ...
 #### Platforms & Languages
 ##### I've used at least once
+
 <br>
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
