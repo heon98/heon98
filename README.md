@@ -1,17 +1,23 @@
 ### Hi there 👋
+I'm Raeheon, dreaming backend developer.
+
 <br>
 
 
         
 <br/>
+### Some words for me
 🛴**Backend Engineer** that I wanna be.🏁<br>
 🔎Keep studying **Java** and **Python**<br>
 📸**Photo**, one of the most interesting hobby for me.<br></br>
+- see my Photos in 
+<a href="https://www.instagram.com/rh_plus_sc/">
+        <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/rh_plus_sc/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-
+<br/>
 ### Platforms & Languages
-I've used
+used and using:
 
 <br>
 <p> 
@@ -25,14 +31,15 @@ I've used
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
 </p>
-<br>
+</br>
+
+<br/>
 ### 💬 Contact me with ...<br>
 <a href="mailto:fogjs8424@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/fogjs8424@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://mail.naver.com/">
         <img src="https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://www.instagram.com/rh_plus_sc/">
-        <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/rh_plus_sc/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a><br><br>
+<br></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heon98&show_icons=true&locale=en" alt="heon98" /></p>
 
