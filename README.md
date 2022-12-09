@@ -3,15 +3,15 @@
 
 
         
-        
+<br/>
 🛴**Backend Engineer** that I wanna be.🏁<br>
 🔎Keep studying **Java** and **Python**<br>
-📸**Photo**, one of the most interesting hobby for me.<br><br>
+📸**Photo**, one of the most interesting hobby for me.<br></br>
 
 
 
 ### Platforms & Languages
-#### I've used at least once
+I've used
 
 <br>
 <p> 
@@ -23,6 +23,7 @@
     <br>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
 </p>
 <br>
 ### 💬 Contact me with ...<br>
