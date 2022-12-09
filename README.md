@@ -6,7 +6,7 @@
         
 🛴**Backend Engineer** that I wanna be.🏁<br>
 🔎Keep studying **Java** and **Python**<br>
-📸**Photo**, one of the most interesting hooby for me.<br><br>
+📸**Photo**, one of the most interesting hobby for me.<br><br>
 
 
 
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 <br>
-### 💬 Contact me with ...
+### 💬 Contact me with ...<br>
 <a href="mailto:fogjs8424@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/fogjs8424@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://mail.naver.com/">
