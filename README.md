@@ -4,8 +4,7 @@ I'm Raeheon, dreaming backend developer.
 <br>
 
 
-        
-<br/>
+
 ### Some words for me
 🛴**Backend Engineer** that I wanna be.🏁<br>
 🔎Keep studying **Java** and **Python**<br>
@@ -15,7 +14,6 @@ I'm Raeheon, dreaming backend developer.
         <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/rh_plus_sc/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-<br/>
 ### Platforms & Languages
 used and using:
 
@@ -33,7 +31,7 @@ used and using:
 </p>
 </br>
 
-<br/>
+
 ### 💬 Contact me with ...<br>
 <a href="mailto:fogjs8424@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/fogjs8424@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
