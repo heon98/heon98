@@ -27,4 +27,6 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadojeong&show_icons=true&locale=en" alt="sadojeong" /></p>
+
 
