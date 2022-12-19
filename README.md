@@ -30,7 +30,7 @@ used and using:
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
 </p>
 </br>
-
+(+) and more skills and techniques
 
 ## 💬 Contact me with ...<br>
 <a href="mailto:fogjs8424@gmail.com" target="_blank">
