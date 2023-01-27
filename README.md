@@ -39,6 +39,6 @@ used and using:
         <img src="https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heon98&show_icons=true&locale=en" alt="heon98" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heon98&show_icons=true&locale=en" alt="heon98" /></p> -->
 
 
