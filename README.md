@@ -34,7 +34,7 @@ used and using:
 (+) and more skills and techniques
 
 ## 💬 Contact me with ...<br>
-<a href="mailto:heon470@kakao.com" target="_blank">
+<a href="mailto:fogjs8424@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/fogjs8424@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://mail.naver.com/">
         <img src="https://img.shields.io/badge/%F0%9F%93%A7-duafogjs%40naver.com-yellowgreen" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
